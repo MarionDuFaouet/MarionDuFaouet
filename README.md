@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to the frontend.
 - 🌱 I’m currently learning `HTML`, `CSS` and `JS`.
 - 💞️ I’m looking to work in an agency and why not one day create my own.
-- You can discover my first student work [here](MarionDuFaouet/Mission-Fresh-vegetables)
+- You can discover my first student work [here]([MarionDuFaouet/Mission-Fresh-vegetables](https://github.com/MarionDuFaouet/Mission-Fresh-vegetables))
   
 - 📫 How to reach me :
   
